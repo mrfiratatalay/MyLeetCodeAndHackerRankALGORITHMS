@@ -1,0 +1,3 @@
+# From now on I will always learn and practice new algorithms.
+
+My goal is to get an algorithmic perspective...
